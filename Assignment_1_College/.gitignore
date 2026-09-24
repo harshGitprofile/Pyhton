@@ -1,0 +1,3 @@
+notes.txt
+//.gitignore  is traced but the files listed inside the .gitignore is not traced
+//now this above file will not be traced by git hub
